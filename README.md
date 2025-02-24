@@ -8,8 +8,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de n
 
 ## O que eu estudo
 
-* Python
-* JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 
 ## Curiosidades
 
@@ -22,5 +22,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de n
 
 # Se quiser trocar uma ideia!
 
-* Instagram: [@guilhermxsa](https://www.instagram.com/guilhermxsa/)
-* Twitter: [@guilhermxgsa](https://x.com/guilhermxgsa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermxsa/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/guilhermxgsa)
+
+
+
+
