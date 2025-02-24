@@ -18,9 +18,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de n
 * Adoro animes e estou sempre em busca de novas recomendações. ⛩️
 * Estou sempre aberto a novas conexões e oportunidades de aprendizado. 
 
-##Se quiser trocar uma ideia
 
-# Redes Sociasis
+
+# Se quiser trocar uma ideia!
 
 * Instagram: [@guilhermxsa](https://www.instagram.com/guilhermxsa/)
 * Twitter: [@guilhermxgsa](https://x.com/guilhermxgsa)
