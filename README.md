@@ -23,7 +23,7 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SEU-USUARIO-DO-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/guilhermesadev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/guilhermxsa/" target="_blank">
