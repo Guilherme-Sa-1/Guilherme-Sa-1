@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+Guilherme+S%C3%A1+%E2%98%80%EF%B8%8F;Desenvolvedor+em+forma%C3%A7%C3%A3o;Entusiasta+de+Automa%C3%A7%C3%A3o+e+Dados" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&width=280&lines=Guilherme+S%C3%A1+%E2%98%80%EF%B8%8F" alt="Typing SVG - Guilherme Sá">
   </a>
 </h1>
 
@@ -39,6 +39,4 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://x.com/guilhermxgsa" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-</p>
+  <img src="
