@@ -62,13 +62,11 @@ Em transição de carreira e aberto a oportunidades — trago uma visão analít
 
 ## 🚀 Projetos em Destaque
 
-> ⚙️ *Fixe seus melhores repositórios abaixo usando o recurso de "Pinned Repos" do GitHub, ou substitua os links abaixo pelos seus projetos reais.*
-
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| 🔗 [**api-project**](#) | API REST com autenticação JWT e documentação automática | FastAPI · Docker · PostgreSQL |
-| 🤖 [**automation-flows**](#) | Fluxos de automação para integração de sistemas | N8N · Python · Webhooks |
-| 📦 [**backend-template**](#) | Template boilerplate para projetos Python com boas práticas | FastAPI · Docker Compose · CI/CD |
+| 🔗 [**api-project**](https://github.com/Guilherme-Sa-1/Dnaeris) | Projetos Python | Python |
+| 🤖 [**automation-flows**](https://github.com/Guilherme-Sa-1/n8n-chatbot) | Fluxos de automação para integração de sistemas | N8N · Python · Webhooks |
+| 📦 [**Dashboard Pessoal(Teste)**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Um dashboard de controle pessoal, financeiro,etc. | React · Javascript · TypeScript |
 
 ---
 
