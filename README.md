@@ -1,14 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&width=480&lines=Ol%C3%A1%2C+sou+Guilherme+S%C3%A1+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+APIs;Automação+%7C+Docker+%7C+N8N" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+sou+Guilherme+S%C3%A1+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+APIs;Automa%C3%A7%C3%A3o+%7C+Docker+%7C+N8N;Aberto+a+novas+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermesadev&color=FFD700&style=flat-square&label=Visitas+ao+perfil" alt="Profile views" />
   <a href="https://www.linkedin.com/in/guilhermesadev/">
     <img src="https://img.shields.io/badge/LinkedIn-Aberto%20para%20oportunidades-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=guilhermesadev&color=FFD700&style=flat-square&label=Visitas+ao+perfil" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/guilhermesadev?label=Seguidores&style=flat-square&color=FFD700&logo=github" alt="GitHub Followers" />
 </p>
 
 ---
@@ -64,9 +67,9 @@ Em transição de carreira e aberto a oportunidades — trago uma visão analít
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| 🔗 [**api-project**](https://github.com/Guilherme-Sa-1/Dnaeris) | Projetos Python | Python |
-| 🤖 [**automation-flows**](https://github.com/Guilherme-Sa-1/n8n-chatbot) | Fluxos de automação para integração de sistemas | N8N · Python · Webhooks |
-| 📦 [**Dashboard Pessoal(Teste)**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Um dashboard de controle pessoal, financeiro,etc. | React · Javascript · TypeScript |
+| 🧬 [**Dnaeris**](https://github.com/Guilherme-Sa-1/Dnaeris) | Pipeline de análise genômica que processa arquivos CSV com variantes de DNA em lotes, consulta APIs externas de bioinformática e gera relatórios Excel com scores genômicos — com sistema de checkpoint e retry automático | `Python` · `Pandas` · `REST API` |
+| 🤖 [**Luke — RAG Chatbot**](https://github.com/Guilherme-Sa-1/n8n-chatbot) | Assistente de IA pessoal com arquitetura RAG: lê documentos do Google Drive, indexa em banco vetorial e responde perguntas com precisão usando Gemini + Pinecone. Atualização automática ao criar/editar arquivos | `N8N` · `Google Gemini` · `Pinecone` · `RAG` |
+| 📊 [**Dashboard Pessoal**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Dashboard de controle pessoal com módulos financeiros e de acompanhamento de metas, construído com React e TypeScript | `React` · `TypeScript` · `JavaScript` |
 
 ---
 
