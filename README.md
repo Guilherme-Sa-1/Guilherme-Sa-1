@@ -67,8 +67,6 @@ Em transição de carreira e aberto a oportunidades — trago uma visão analít
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| 🧬 [**Dnaeris**](https://github.com/Guilherme-Sa-1/Dnaeris) | Pipeline de análise genômica que processa arquivos CSV com variantes de DNA em lotes, consulta APIs externas de bioinformática e gera relatórios Excel com scores genômicos — com sistema de checkpoint e retry automático | `Python` · `Pandas` · `REST API` |
-| 🤖 [**Luke — RAG Chatbot**](https://github.com/Guilherme-Sa-1/n8n-chatbot) | Assistente de IA pessoal com arquitetura RAG: lê documentos do Google Drive, indexa em banco vetorial e responde perguntas com precisão usando Gemini + Pinecone. Atualização automática ao criar/editar arquivos | `N8N` · `Google Gemini` · `Pinecone` · `RAG` |
 | 📊 [**Dashboard Pessoal**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Dashboard de controle pessoal com módulos financeiros e de acompanhamento de metas, construído com React e TypeScript | `React` · `TypeScript` · `JavaScript` |
 
 ---
