@@ -67,7 +67,7 @@ Em transição de carreira e aberto a oportunidades — trago uma visão analít
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| 📊 [**Dashboard Pessoal**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Dashboard de controle pessoal com módulos financeiros e de acompanhamento de metas, construído com React e TypeScript | `React` · `TypeScript` · `JavaScript` |
+| 📊 [**Dashboard de Produtividade-LifeOs**](https://github.com/Guilherme-Sa-1/Dashboard-teste) | Dashboard de controle pessoal com módulos financeiros e de acompanhamento de metas, construído com React e TypeScript | `React` · `TypeScript` · `JavaScript` |
 
 ---
 
